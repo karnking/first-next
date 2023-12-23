@@ -3,7 +3,7 @@ import React from 'react'
 const NewUserPage = () => {
   return (
     <div>
-      n u p
+      not a comp
     </div>
   )
 }
